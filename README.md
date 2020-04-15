@@ -6,6 +6,11 @@
  work with proxylist
  only work on python2.7
  
+........... Download commands ...............
  
- git clone https://github.com/PHOENIX7713/-instahack13.git
  
+ git clone 
+ 
+cd instahack13
+
+ls
