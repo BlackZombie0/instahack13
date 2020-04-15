@@ -9,8 +9,14 @@
 ........... Download commands ...............
  
  
- git clone 
+ git clone https://github.com/PHOENIX7713/instahack13.git
  
 cd instahack13
 
 ls
+
+chmod +x CheckProxy.py
+
+chmod +x instagram.py
+
+python2 instagram.py
