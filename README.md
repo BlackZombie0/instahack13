@@ -1,12 +1,15 @@
 # instahack13
+# youtube : FR13NDS DZ
+# facebook : Phoenix Pw
+# github : PHOENIX7713
 
-#Note! : We don't Accept any responsibility for any illegal usage.
+# Note! : We don't Accept any responsibility for any illegal usage.
 
- very fast!
- work with proxylist
- only work on python2.7
+# very fast!
+# work with proxylist
+# only work on python2.7
  
-........... Download commands ...............
+# ........... Download commands ...............
  
  
  git clone https://github.com/PHOENIX7713/instahack13.git
