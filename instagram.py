@@ -67,14 +67,32 @@ class InstaBrute(object):
         colors = [36, 32, 34, 35, 31, 37]
 
         x = """
-                     Phoenix Black hacker
-                 ____  _   _  ___  _____ _   _ _____  __
-                |  _ \| | | |/ _ \| ____| \ | |_ _\ \/ /
-                | |_) | |_| | | | |  _| |  \| || | \  / 
-                |  __/|  _  | |_| | |___| |\  || | /  \ 
-                |_|   |_| |_|\___/|_____|_| \_|___/_/\_\
-                   
-                    GitHub.com/PHOENIX7713      Algeria-Cyber.NeT                                                 
+                     ALGERIAN COMMANDO LIGHTNING STRIKE
+                      FSOCIETY-ARAB-MOUSSA Black hacker
+                 .              Algerian beast            .
+        .n                   .                 .                  n.
+  .   .dP                  dP                   9b                 9b.    .
+ 4    qXb         .       dX                     Xb       .        dXp     t
+dX.    9Xb      .dXb    __                         __    dXb.     dXP     .Xb
+9XXb._       _.dXXXXb dXXXXbo.                 .odXXXXb dXXXXb._       _.dXXP
+ 9XXXXXXXXXXXXXXXXXXXVXXXXXXXXOo.           .oOXXXXXXXXVXXXXXXXXXXXXXXXXXXXP
+  `9XXXXXXXXXXXXXXXXXXXXX'~   ~`OOO8b   d8OOO'~   ~`XXXXXXXXXXXXXXXXXXXXXP'
+    `9XXXXXXXXXXXP' `9XX'   DIE    `98v8P'  HUMAN   `XXP' `9XXXXXXXXXXXP'
+        ~~~~~~~       9X.          .db|db.          .XP       ~~~~~~~
+                        )b.  .dbo.dP'`v'`9b.odb.  .dX(
+                      ,dXXXXXXXXXXXb     dXXXXXXXXXXXb.
+                     dXXXXXXXXXXXP'   .   `9XXXXXXXXXXXb
+                    dXXXXXXXXXXXXb   d|b   dXXXXXXXXXXXXb
+                    9XXb'   `XXXXXb.dX|Xb.dXXXXX'   `dXXP
+                     `'      9XXXXXX(   )XXXXXXP      `'
+                              XXXX X.`v'.X XXXX
+                              XP^X'`b   d'`X^XX
+                              X. 9  `   '  P )X
+                              `b  `       '  d'
+                               `             '
+                                WE ARE MOUSSA
+                                WE ARE FSOCIETY
+                    GitHub.com/FSOCIETY-coder-dz    Algeria-Cyber.NeT                                                 
                     
             Note! : We don't Accept any responsibility for any illegal usage.       
     """
