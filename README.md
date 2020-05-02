@@ -14,7 +14,7 @@
 # ........... Download commands ...............
  
  
- git clone https://github.com/PHOENIX7713/instahack13.git
+ git clone https://github.com/FSOCIETY-coder-dz/instahack13.git
  
 cd instahack13
 
